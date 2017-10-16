@@ -1,1 +1,5 @@
- contenu test de contribution sur GtHb
+contenu test de contribution sur GitHub
+
+qu’est GitHub pour vous ?
+
+GitHub est un outil gratuit pour héberger du code open source, et propose également des plans payants pour les projets de code privés.
